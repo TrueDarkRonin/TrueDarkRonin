@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrueDarkRonin
-- 👀 I’m interested in Video Games, 
+- 👀 I’m interested in Video Games, Music and Security
 - 🌱 I’m currently learning Python and C#
 
 <!---
