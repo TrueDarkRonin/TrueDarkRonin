@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrueDarkRonin
-- 👀 I’m interested in Video Games, Music and Security
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in Video Games, Music, Security and Ethical Hacking
+- 🌱 I’m currently learning Python, C#, bash and Linux/kali
 
 <!---
 TrueDarkRonin/TrueDarkRonin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
