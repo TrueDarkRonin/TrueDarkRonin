@@ -1,6 +1,6 @@
 # Something, something, Sisyphus, boulder, something.
 - 👋 Hi, I’m @TrueDarkRonin
-- 👀 I’m interested in Video Games, Music, Security and Ethical Hacking
+- 👀 I’m interested in Video Games, Music, CyberSecurity and Ethical Hacking
 - 🌱 I’m currently learning Python, C#, bash and kali linux
 - 📧 Contact Me: gabriell.riley@gmail.com
 
