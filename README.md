@@ -5,7 +5,7 @@
 - 📧 Contact Me: gabriell.riley@gmail.com
 
 ### Certifications:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf56b019-2fcc-4293-9f5f-f6c40c4ba5a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> https://www.credly.com/badges/bf56b019-2fcc-4293-9f5f-f6c40c4ba5a0/public_url
+https://www.credly.com/badges/bf56b019-2fcc-4293-9f5f-f6c40c4ba5a0/public_url
 
 ### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
