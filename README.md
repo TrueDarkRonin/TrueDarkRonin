@@ -5,7 +5,7 @@
 - 📧 Contact Me: gabriell.riley@gmail.com
 
 ### Certifications:
-![Comptia](https://img.shields.io/badge/Comptia_A%2B-red
+![Comptia](https://img.shields.io/badge/Comptia_A%2B-red?style=flat-square
 ) https://www.credly.com/badges/bf56b019-2fcc-4293-9f5f-f6c40c4ba5a0/public_url
 
 ### Operating Systems:
