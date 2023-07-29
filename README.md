@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Python, C#, bash and kali linux
 - 📧 Contact Me: gabriell.riley@gmail.com
 
+### Certifications:
+Comptia A+ https://www.credly.com/badges/bf56b019-2fcc-4293-9f5f-f6c40c4ba5a0/public_url
+
 ### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
